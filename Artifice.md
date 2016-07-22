@@ -8,4 +8,9 @@
 ```
 去掉物理模型中Rigidbody的IsKinematic选项
 ```
-3.HandController与UI距离0.5比较合适
+3.HandController与UI距离
+
+```
+适当调整
+```
+
